@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Face Recognition Project**
 
-- 🌱 I’m currently learning **ReactJS, MongoDB and basic ML.**
+- 🌱 I’m currently learning **ReactJS and Backend Web Development**
 
 - 👯 I’m looking to collaborate on **any Full Stack Based Project.**
 
