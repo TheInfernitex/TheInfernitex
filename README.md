@@ -3,15 +3,13 @@
 <img         src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" align="right"/>
 <h3 align="left">A passionate developer from India.</h3>
 
-- 🔭 I’m currently working on **Face Recognition Project**
+- 🔭 I’m currently working on **Face Recognition Project** and my **Portfolio Website**
 
-- 🌱 I’m currently learning **ReactJS and Backend Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **any Full Stack Based Project.**
+- 👯 I’m looking to collaborate on **any Full Stack or Machine Learning Based Project**
 
-- 🤝 I’m looking for help with **building some three.js models.**
-
-- 💬 Ask me about **Frontend Development and DSA.**
+- 💬 Ask me about **Web-Development and DSA.**
 
 - 📫 How to reach me **agarwalparthsplendid@gmail.com**
 
