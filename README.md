@@ -1,4 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Parth Agarwal.</h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <div align="center">
         <a href="https://github.com/AyushAgnihotri2025">
             <img
@@ -6,10 +7,8 @@
             />
         </a>
     </div>
-
-
   
-<img         src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" align="right"/>
+<a href="https://app.daily.dev/infernitex"><img src="https://api.daily.dev/devcards/fccc4448d7a34b5fabd453573fa72bb3.png?r=qbt" height="300" align="right"/><a/>
 <h3 align="left">A passionate developer from India.</h3>
 
 - 🔭 I’m currently working on **Face Recognition Project** and my **Portfolio Website**
