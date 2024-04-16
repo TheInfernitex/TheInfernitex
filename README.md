@@ -23,8 +23,3 @@
 - ⚡ Fun fact **The name of this Github account is the one I designed a few years back when I was trying my hand at music production.**
 
 
-<div align="center">
-    <h1>Skill Set 💪</h1>
-    <h4>These are some of the major technologies that I use or have worked on in the past:</h4>
-</div>
-
