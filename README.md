@@ -28,9 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheInfernitex)](https://github.com/TheInfernitex/github-readme-stats)
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheInfernitex)](https://github.com/TheInfernitex/github-readme-stats)
-
-<br><br><br><br>
-
-![snake gif](https://github.com/TheInfernitex/TheInfernitex/blob/output/github-contribution-grid-snake.gif)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravindajogi&" alt="aravindajogi" /></p>
 
 
