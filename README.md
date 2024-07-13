@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **agarwalparthsplendid@gmail.com**
 
-- ⚡ Fun fact **The name of this Github account is the one I designed a few years back when I was trying my hand at music production.**
+- ⚡ Fun fact **The name INFERNITEX is something I adopted a few years ago when I was trying my hand at music production.**
 
 <br><br><br><br>
 
