@@ -12,9 +12,9 @@
     </div>
 </div>
 
-
-
-<br><br><br> <hr/> <br><br><br>
+<br/><br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br/><br/>
   
 <h3 align="left">A passionate developer from India.</h3>
 
@@ -29,7 +29,9 @@
 - ⚡ Fun fact **The name INFERNITEX is something I adopted a few years ago when I was trying my hand at music production.**
 
 
-<br><br><br> <hr/> <br><br><br>
+<br/><br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br/><br/>
 
   
 <!-- Skill Set  -->
@@ -163,7 +165,9 @@
 
 
 
-<br><br><br> <hr/> <br><br><br>
+<br/><br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br/><br/>
 
 
 <!-- Skill Set  (Programming Languages)  -->
@@ -211,38 +215,46 @@
 </div>
 
 
-<br><br><br> <hr/> <br><br><br>
-
-
-</div>
-</div>
-<div align="center">
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/TheInfernitex">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheInfernitex&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TheInfernitex">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheInfernitex&theme=radical" alt="Shivam's GitHub Contribution"/>
-  </a>
-</p>
-
-
-<div align="center">
-<a> 
-    <a href="https://github.com/TheInfernitex"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=myselfshivams&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-
-  <hr><div align="center">
-  <a href="https://github.com/TheInfernitex"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TheInfernitex&langs_count=5&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</a>
-
-
+<br/><br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br/><br/>
 
+
+</div>
+</div>
+<div align="center">
+
+<!-- Heading in the center -->
+<h2 align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> 
+    GitHub Stats
+</h2>
+
+<!-- First row: two images side by side -->
+<div align="center">
+  <a href="https://github.com/TheInfernitex">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheInfernitex&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/TheInfernitex">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheInfernitex&theme=radical" alt="GitHub Contribution" height="192px" width="49.5%"/>
+  </a>
+</div>
+
+<!-- Second row: two images side by side -->
+<div align="center">
+  <a href="https://github.com/TheInfernitex">
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TheInfernitex&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/TheInfernitex">
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TheInfernitex&langs_count=5&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+</div>
+
+
+<br/><br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br/><br/>
+
+</div>
 
 
