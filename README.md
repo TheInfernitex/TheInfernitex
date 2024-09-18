@@ -4,13 +4,15 @@
 <br/>
 
 <div align="center">
-    <img src="https://api.daily.dev/devcards/fccc4448d7a34b5fabd453573fa72bb3.png?r=qbt" style="max-width:40%; height:300px;" />
-    <div style="display: flex; justify-content: center;">
+    <img src="https://api.daily.dev/devcards/fccc4448d7a34b5fabd453573fa72bb3.png?r=qbt" style="max-width:40%; height:300px; margin-bottom: 20px;" />
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+    <br/><br/>
         <a href="https://github.com/TheInfernitex">
-            <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&width=435&lines=Hi!+I'm+Parth%2C;A+Web+Developer%2C;An+App+Developer%2C;And+Programming+Enthusiast.." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3000&pause=1000&color=F83600%2CEB1E99&width=500&lines=Hello+World!+I'm+Parth+here%2C;A+Full+Stack+Web+Developer%2C;Cross+Platform+App+Developer%2C;And+Competitive+Programmer.." alt="Typing SVG" />
         </a>
     </div>
 </div>
+
 
 <br/><br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
