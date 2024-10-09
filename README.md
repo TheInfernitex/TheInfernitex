@@ -8,7 +8,7 @@
 <div style="display: flex; justify-content: center; margin-top: 20px;">
     <br/><br/>
         <a href="https://github.com/TheInfernitex">
-<img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3000&pause=1000&color=F83600%2CEB1E99&width=500&lines=Hello+World!+I'm+Parth+here%2C;A+Full+Stack+Web+Developer%2C;Cross+Platform+App+Developer%2C;And+Competitive+Programmer.." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3000&pause=1000&color=F83600%2CEB1E99&width=500&lines=Hello+World!+I'm+Parth+Agarwal%2C;A+Full+Stack+Web+Developer%2C;Cross+Platform+App+Developer%2C;And+Competitive+Programmer.." alt="Typing SVG" />
         </a>
     </div>
 </div>
