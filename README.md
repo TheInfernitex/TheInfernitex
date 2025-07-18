@@ -129,17 +129,6 @@
 
 ---
 
-
-## 📈 Coding Stats
-
-<div align="center">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ag_Parth1?theme=dark&font=Karma&ext=contest)](https://leetcode.com/Ag_Parth1)
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
