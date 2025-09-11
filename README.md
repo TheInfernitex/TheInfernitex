@@ -26,7 +26,7 @@
 - 🌱 **Learning:** Advanced System Design, Machine Learning, and Cloud Technologies
 - 👯 **Looking to collaborate on:** Gen AI based projects and Open Source contributions
 - 💬 **Ask me about:** Web Development, System Programming, Competitive Programming
-- 📫 **Reach me at:** [agarwalparthsplendid@gmail.com](mailto:agarwalparthsplendid@gmail.com)
+- 📫 **Reach me at:** [contact@parthdev.me](mailto:contact@parthdev.me)
 - ⚡ **Fun fact:** The name INFERNITEX is something I adopted during my music production journey
 
 ---
@@ -36,13 +36,14 @@
 <div align="center">
   
 ![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201936-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-1650%20★★★-brown?style=for-the-badge&logo=codechef&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-1700%20★★★-brown?style=for-the-badge&logo=codechef&logoColor=white)
 ![Rank](https://img.shields.io/badge/LeetCode%20Rank-Top%203.71%25-green?style=for-the-badge)
 
 </div>
 
 - 🥇 **Finalist** - HackIITK (4000+ teams)
 - 🏆 **Winner** - Vultr Track at HackCBS 7.0
+- 🏆 **Winner** - TON Ideathon 2024
 - 🏆 **Winner** - GitHub Track at Hack 5.0 (NIT Hamirpur)
 - 🔥 **2000+** DSA problems solved across platforms
 - 📚 **46** Credly badges in AI and Google Cloud
