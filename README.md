@@ -16,9 +16,7 @@
   <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2FTheInfernitex%2FTheInfernitex&label=PROFILE%20VISITORS&labelColor=38761d&countColor=38761d&style=for-the-badge" alt="Visitor Counter" />
 </div>
 
----
-
-## 🚀 About Me
+<br>
 
 <table>
 <tr>
@@ -37,11 +35,10 @@ collaboration_interests:
   - Gen AI based projects
   - Open Source contributions
 ```
-
+<br>
 </td>
 <td width="50%">
 
-### 🎯 Quick Facts
 - 💻 **Focus Areas:** Web Development, System Programming, Competitive Programming
 - 🌟 **Fun Fact:** The name INFERNITEX originated from my music production journey
 - 📧 **Contact:** [contact@parthdev.me](mailto:contact@parthdev.me)
@@ -52,8 +49,6 @@ collaboration_interests:
 </table>
 
 ---
-
-## 🏆 Achievements & Recognition
 
 <div align="center">
 
@@ -76,7 +71,7 @@ collaboration_interests:
 
 </div>
 
-### 🎖️ Competition Highlights
+---
 
 <div align="center">
 
@@ -89,16 +84,12 @@ collaboration_interests:
 
 </div>
 
-### 📚 Certifications & Learning
-
 <div align="center">
   <img src="https://img.shields.io/badge/Credly%20Badges-46-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=1F1F1F" />
   <img src="https://img.shields.io/badge/NPTEL%20Certifications-12+-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1F1F1F" />
 </div>
 
 ---
-
-## 🛠️ Technology Stack
 
 <table>
 <tr>
@@ -170,7 +161,6 @@ collaboration_interests:
 
 ---
 
-## 📊 GitHub Analytics
 
 <div align="center">
 <table>
@@ -189,15 +179,11 @@ collaboration_interests:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheInfernitex&theme=highcontrast&hide_border=true&background=30,667eea,764ba2&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" alt="GitHub Streak" />
 </div>
 
-<br>
+---
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheInfernitex&theme=github_dark" alt="Contribution Summary" />
 </div>
-
----
-
-## 🔥 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheInfernitex&custom_title=Contribution%20Activity%20Graph&hide_border=true&theme=github-compact&bg_color=667eea&color=ffffff&line=764ba2&point=ffffff&area=true&area_color=764ba2" alt="Activity Graph" />
@@ -205,15 +191,11 @@ collaboration_interests:
 
 ---
 
-## 🏅 GitHub Achievements
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheInfernitex&theme=discord&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
-
-## 🌐 Let's Connect
 
 <div align="center">
 <table>
@@ -241,10 +223,6 @@ collaboration_interests:
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20connect%20and%20build%20something%20amazing%20together!&descAlignY=90&descSize=16" />
