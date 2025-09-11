@@ -1,15 +1,21 @@
-# 👋 Hey! I'm Parth Agarwal
+<a href="https://parthdev.me" target="_blank">
+        <img src="http://itshivam.in/api/github-profile?username=TheInfernitex&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Cross+Platform+App+Developer;Competitive+Programmer;Open+Source+Contributor;Building+the+Future+with+Code" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&v
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheInfernitex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/TheInfernitex?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/TheInfernitex?label=Profile%20Stars&style=social" alt="GitHub stars" />
-</div>
-
+  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2FTheInfernitex%2FTheInfernitex&label=VISITORS&labelColor=%2305C2F2&countColor=%2305C2F2" />
+    <br><br>
+ 
+   <div align="center">
+      <a href="https://github.com/Sunscarsonys">
+            <img
+                src="https://readme-typing-svg.herokuapp.com?color=purple&size=36&center=trueCenter=true&width=600&lines=Full+Stack+Web+Developer;Cross+Platform+App+Developer;Competitive+Programmer;Open+Source+Contributor;Building+the+Future+with+Code" alt="Typing SVG" />
+        </a>
+    </div>
+    
 ---
 
 ## 🚀 About Me
@@ -144,11 +150,6 @@
 ---
 
 </div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
 ---
 
 <div align="center">
