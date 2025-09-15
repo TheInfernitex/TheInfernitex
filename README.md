@@ -86,7 +86,7 @@ collaboration_interests:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Credly%20Badges-46-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=1F1F1F" />
-  <img src="https://img.shields.io/badge/NPTEL%20Certifications-12+-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1F1F1F" />
+  <img src="https://img.shields.io/badge/NPTEL%20Credits-12+-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1F1F1F" />
 </div>
 
 ---
