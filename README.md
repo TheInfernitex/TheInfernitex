@@ -79,8 +79,9 @@ collaboration_interests:
 |:-----------:|:-----------:|:------------:|
 | 🥇 **HackIITK** | Finalist | 4000+ teams |
 | 🏆 **HackCBS 7.0** | Winner - Vultr Track | 500+ teams |
-| 🏆 **TON Ideathon 2024** | Winner | 300+ teams |
+| 🏆 **TON Ideathon 2024** | Runner-Up | 300+ teams |
 | 🏆 **Hack 5.0 (NIT Hamirpur)** | Winner - GitHub Track | 400+ teams |
+| 🏆 **Naukri Campus Young Turks 2025** | AIR 542 (Round 2) | --- |
 
 </div>
 
