@@ -1,75 +1,13 @@
 
 
-<div align="center">
-  <a href="https://parthdev.me" target="_blank">
-    <img src="http://itshivam.in/api/github-profile?username=TheInfernitex&data=followers,repositories,stars,commits&theme=default" alt="GitHub Stats Widget" width="100%">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&height=70&lines=Building+the+Future+with+Code;Full+Stack+Web+Developer;Cross+Platform+App+Developer;Competitive+Programmer;Open+Source+Contributor" alt="Typing Animation" />
-</div>
+[![An image of @theinfernitex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theinfernitex)](https://holopin.io/@theinfernitex)
 
 <div align="center">
   <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2FTheInfernitex%2FTheInfernitex&label=PROFILE%20VISITORS&labelColor=38761d&countColor=38761d&style=for-the-badge" alt="Visitor Counter" />
 </div>
 
-<br>
 
-<table>
-<tr>
-<td width="50%">
 
-```yaml
-name: Parth Agarwal
-role: Computer Science Undergraduate
-location: India
-currently_learning: 
-  - Advanced System Design
-  - Machine Learning
-  - Cloud Technologies
-current_project: "Operating System from scratch in Rust (Rustix)"
-collaboration_interests:
-  - Gen AI based projects
-  - Open Source contributions
-```
-<br>
-</td>
-<td width="50%">
-
-- 💻 **Focus Areas:** Web Development, System Programming, Competitive Programming
-- 🌟 **Fun Fact:** The name INFERNITEX originated from my music production journey
-- 📧 **Contact:** [contact@parthdev.me](mailto:contact@parthdev.me)
-- 🔍 **Always exploring:** New technologies and innovative solutions
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/LeetCode-1936%20Rating-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1F1F1F" />
-<br><sub><b>🏅 Top 3.71% Globally</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/CodeChef-1700%20★★★-6C3483?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1F1F1F" />
-<br><sub><b>⭐ 3-Star Rating</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Problems%20Solved-2000+-28B463?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1F1F1F" />
-<br><sub><b>🔥 Across All Platforms</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -92,7 +30,7 @@ collaboration_interests:
 
 ---
 
-<table>
+<table align="center">
 <tr>
 <td align="center"><h3>💻 Core Languages</h3></td>
 </tr>
@@ -108,7 +46,7 @@ collaboration_interests:
 </tr>
 </table>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" align="center"><h3>🎨 Frontend & Mobile</h3></td>
 <td width="50%" align="center"><h3>⚙️ Backend & Database</h3></td>
@@ -145,7 +83,7 @@ collaboration_interests:
 </tr>
 </table>
 
-<table>
+<table align="center">
 <tr>
 <td align="center"><h3>🔧 DevOps & Tools</h3></td>
 </tr>
@@ -202,7 +140,7 @@ collaboration_interests:
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="https://profile.parthdev.me" target="_blank">
+<a href="https://parthdev.me" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1F1F1F" />
 <br><sub><b>🌟 Portfolio</b></sub>
 </a>
