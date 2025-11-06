@@ -86,14 +86,6 @@
 <img src="https://img.shields.io/badge/LangSmith-121212?style=for-the-badge&logo=smith&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-00599C?style=for-the-badge&logo=protocol&logoColor=white" />
 
-### 🧠 Machine Learning
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
 ### 💾 Version Control
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
